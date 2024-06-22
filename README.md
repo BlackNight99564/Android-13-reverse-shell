@@ -17,7 +17,7 @@ Clone this repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/Android-13-reverse-shell.git
+git clone https://github.com/ashib837/Android-13-reverse-shell.git
 Open the project in Android Studio.
 
 Build and run the project on your Android device.
